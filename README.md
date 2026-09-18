@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à les coffres tokenisés, leurs stratégies et leur comptabilité de rendement est disponible dans [docs/fr/](docs/fr/).
+
 # Yearn V3 Vaults
 
 This repository contains the smart contracts for Yearn's V3 vault implementation. The current vault API version is `3.1.1`.
